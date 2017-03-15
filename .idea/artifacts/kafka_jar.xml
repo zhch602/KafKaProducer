@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kafka:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="kafka.jar">
+      <element id="module-output" name="kafka" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/org/scala-lang/scala-library/2.10.6/scala-library-2.10.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/org/xerial/snappy/snappy-java/1.1.2.6/snappy-java-1.1.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/org/slf4j/slf4j-log4j12/1.7.21/slf4j-log4j12-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/org/apache/kafka/kafka_2.10/0.10.1.1/kafka_2.10-0.10.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/jline/jline/0.9.94/jline-0.9.94.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/io/netty/netty/3.7.0.Final/netty-3.7.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/org/apache/zookeeper/zookeeper/3.4.8/zookeeper-3.4.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/com/101tec/zkclient/0.9/zkclient-0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Applications/repository/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

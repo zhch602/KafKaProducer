@@ -36,7 +36,7 @@ public class MockRealTimeData extends Thread{
         //定义一个配置kafka配置对象
         Properties props = new Properties();
         //192.168.1.105:9092,192.168.1.106:9092分别是broker的地址，写2个就可以
-        props.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, "192.168.45.101:9092，192.168.45.102:9092");
+        props.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, "localhost:9092");
         //value的序列化类
         props.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, "org.apache.kafka.common.serialization.StringSerializer");
         props.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, "org.apache.kafka.common.serialization.StringSerializer");
